@@ -27,7 +27,7 @@ The last fragment can be used to update the quantity if the book is being issued
 
 The app was made using layouts, fragments, livedata, viewmodels, navigation and roomdatabase.
 The App has a very simple and interactive interface which helps the librariand/monitors enter the data of books.
-1. Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+1. Constraint Layout : Most of the activities in the app use a flexible constraint layout, which is easy to handle for different screen sizes.
 2. Fragments: The use of fragments has ensured that the app follows latest components of android. Also the backtracking and navigation of the app has been possible due to fragments.
 3. Navigation: Use of navigation has made changing screens very smooth and error free.
 4. LiveData & Room Database : The list of updated books can be visible in android studio which helps the data safe and secure.
