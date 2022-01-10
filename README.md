@@ -37,7 +37,7 @@ Architecture:
 
 ![structure](https://user-images.githubusercontent.com/88738245/148697997-e1a1c511-3a0f-4000-9a65-7b1990be3032.jpg)
 
-Application link - 
+Application link - https://github.com/PushkarAdhyapak/Library-Manager/tree/master
 
 Future Scope : 
 We plan to add login and register feature in the app so different colleges can use it respective to their needs.
