@@ -1,6 +1,6 @@
 Android Study Jams
 # Library-Manager
-##Problem Statement:
+Problem Statement:
 
 Librarians or some monitors face difficulties while keeping track of books that are present in the library. Sometimes during electricity issues the computer software does not work resulting in delaying the process of updating or issuing of books to students. This is common in rural areas. The advent of android applications has meant these issues can be solved very easily. This is where the Library Manager app plays its part as everyone today has a smartphone and this app can be accessed very easily.
 
