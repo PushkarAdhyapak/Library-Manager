@@ -31,7 +31,7 @@ The App has a very simple and interactive interface which helps the librariand/m
 2. Fragments: The use of fragments has ensured that the app follows latest components of android. Also the backtracking and navigation of the app has been possible due to fragments.
 3. Navigation: Use of navigation has made changing screens very smooth and error free.
 4. LiveData & Room Database : The list of updated books can be visible in android studio which helps the data safe and secure.
-5. 
+
 ## **Architecture**
 
 ![structure](https://user-images.githubusercontent.com/88738245/148697997-e1a1c511-3a0f-4000-9a65-7b1990be3032.jpg)
